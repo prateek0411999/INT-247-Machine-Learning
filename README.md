@@ -1,2 +1,2 @@
 # Machine-Learning
-Categorize the student in appropriate grade class using clustering techniques
+INT- 247 project Categorize student in appropriate grade class using clustering techniques.
